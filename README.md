@@ -13,7 +13,7 @@ it will call python flask server to retrieve the predicted price.
 
 ## Deployemnt :
 
-- The web app has been build using basic HTML, CSS, Javascript, Flask and AWS.
+- The web app has been build using basic HTML, CSS, Javascript, Flask and AWS EC2.
 
 
 ## 1.
