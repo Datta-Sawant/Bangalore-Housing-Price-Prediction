@@ -9,7 +9,7 @@ it will call python flask server to retrieve the predicted price.
 
 ## Modelling :
 - The analysis and model creation can be found in the .ipynb file.
-- The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
+- The main packages used are numpy, pandas and sklearn.
 
 ## Deployemnt :
 
